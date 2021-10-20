@@ -1,6 +1,6 @@
 # Search-Engine
 
-AUTHORS:
+AUTHORS: /n
 Aliya Valieva
 Haoyuan Bai
 LANGUAGE: Python 3.9
