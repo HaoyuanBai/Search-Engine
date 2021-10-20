@@ -1,7 +1,9 @@
 # Search-Engine
 
-AUTHORS: /n
+AUTHORS:
+
 Aliya Valieva
+
 Haoyuan Bai
 LANGUAGE: Python 3.9
 DESCRIPTION:
