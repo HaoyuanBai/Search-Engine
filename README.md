@@ -1,11 +1,5 @@
 # Search-Engine
 
-AUTHORS:
-
-Haoyuan Bai
-Aliya Valieva
-
-
 LANGUAGE: Python 3.9
 
 DESCRIPTION:
